@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name" translatable="false">Word Game.kt</string>
-    <string name="game_won">Game Won!</string>
-    <string name="game_lost">Game Lost! Hidden Word: %s</string>
+    <string name="app_name" translatable="false">Guess Word</string>
+    <string name="game_won">Game won!</string>
+    <string name="game_lost">Game lost! Hidden word was: %s</string>
     <string name="replay">Replay</string>
+    <string name="no_history_save">Nothing is saved to history yet!</string>
 </resources>

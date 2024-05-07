@@ -1,6 +1,6 @@
 # README
 
-## Word Game.kt: Wordle clone with Jetpack Compose
+## Guess Word: Wordle clone with Jetpack Compose
 
 <img src="README_ASSETS/logo.png" alt="image" width="auto" height="70">
 
